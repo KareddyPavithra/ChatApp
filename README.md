@@ -9,23 +9,14 @@ BuzzChat is a responsive web appplication allowing for real-time group conversat
 <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
-## Installation and Setup
+## Features and Functionalities
 
-### `npm start`
+The application has the following features:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* The users can send messages to another user or a group.
+* Online status is represented by green dot and other users status is also visible
+* Images can be sent in the chat
+* Sound notifications are also enabled whenever a text is received.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-### `npm run eject`
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
