@@ -20,3 +20,6 @@ The application has the following features:
 
 ## Screenshots
 
+Take a look at the login form of the App:
+
+![Login Form](https://github.com/KareddyPavithra/MicrosoftTeamsClone/blob/main/src/Screenshot%202024-02-08%20234818.png)
