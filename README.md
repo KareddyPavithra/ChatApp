@@ -1,5 +1,6 @@
 ## Description:
-BuzzChat is a responsive web appplication allowing for real-time group conversations, multiple chat rooms along with features like image support, online statuses and group creation. This application is built using React.js, Javascript and Chat Engine.
+
+<b>BuzzChat</b> is a responsive web appplication allowing for real-time group conversations, multiple chat rooms along with features like image support, online statuses and group creation. This application is built using React.js, Javascript and Chat Engine.
 
 ## Tech Stack
 <div align="left">
